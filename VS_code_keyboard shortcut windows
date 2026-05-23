@@ -1,0 +1,91 @@
+# VS Code Keyboard Shortcuts — Windows
+
+## General
+
+| Shortcut | Action |
+|----------|--------|
+| `Ctrl + Shift + P` | Command Palette |
+| `Ctrl + P` | Quick Open (go to file) |
+| `Ctrl + Shift + N` | New Window |
+| `Ctrl + W` | Close Window/Tab |
+| `Ctrl + ,` | Open Settings |
+| `Ctrl + K Ctrl + S` | Open Keyboard Shortcuts |
+
+## Basic Editing
+
+| Shortcut | Action |
+|----------|--------|
+| `Ctrl + X` | Cut line (empty selection) |
+| `Ctrl + C` | Copy line (empty selection) |
+| `Ctrl + Shift + K` | Delete line |
+| `Ctrl + Enter` | Insert line below |
+| `Ctrl + Shift + Enter` | Insert line above |
+| `Alt + Up / Down` | Move line up/down |
+| `Shift + Alt + Up / Down` | Copy line up/down |
+| `Ctrl + /` | Toggle line comment |
+| `Shift + Alt + A` | Toggle block comment |
+
+## Navigation
+
+| Shortcut | Action |
+|----------|--------|
+| `Ctrl + G` | Go to line |
+| `Ctrl + Tab` | Switch between open files |
+| `Ctrl + B` | Toggle Sidebar |
+| `Ctrl + `` | Toggle Terminal |
+| `Ctrl + Shift + E` | Show Explorer |
+| `Ctrl + Shift + F` | Show Search |
+| `Ctrl + Shift + G` | Show Source Control |
+| `Ctrl + Shift + D` | Show Run & Debug |
+| `Ctrl + Shift + X` | Show Extensions |
+
+## Search & Replace
+
+| Shortcut | Action |
+|----------|--------|
+| `Ctrl + F` | Find |
+| `Ctrl + H` | Replace |
+| `Ctrl + Shift + H` | Replace in files |
+| `F3 / Shift + F3` | Find next/previous |
+| `Alt + Enter` | Select all occurrences of Find match |
+
+## Multi-Cursor & Selection
+
+| Shortcut | Action |
+|----------|--------|
+| `Alt + Click` | Insert cursor |
+| `Ctrl + Alt + Up / Down` | Insert cursor above/below |
+| `Ctrl + D` | Add selection to next Find match |
+| `Ctrl + Shift + L` | Select all occurrences of current selection |
+| `Ctrl + U` | Undo last cursor operation |
+
+## Debugging
+
+| Shortcut | Action |
+|----------|--------|
+| `F9` | Toggle breakpoint |
+| `F5` | Start/Continue debugging |
+| `F10` | Step over |
+| `F11` | Step into |
+| `Shift + F11` | Step out |
+| `Shift + F5` | Stop debugging |
+
+## Terminal
+
+| Shortcut | Action |
+|----------|--------|
+| `` Ctrl + ` `` | Toggle Integrated Terminal |
+| `Ctrl + Shift + `` | Create New Terminal |
+| `Ctrl + C` | Copy (in terminal) |
+| `Ctrl + V` | Paste (in terminal) |
+
+## Formatting
+
+| Shortcut | Action |
+|----------|--------|
+| `Shift + Alt + F` | Format document |
+| `Ctrl + K Ctrl + F` | Format selection |
+
+---
+
+**Pro Tip:** You can customize or search for any shortcut by pressing `Ctrl + K Ctrl + S`.
