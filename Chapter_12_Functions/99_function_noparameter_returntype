@@ -1,0 +1,7 @@
+function sayhello() {
+    console.log("Hi");
+    return "Hello";
+}
+
+let x = sayhello();
+console.log(x);
